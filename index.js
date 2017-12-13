@@ -27,10 +27,13 @@ function dec(n)
   return String(n -= 1)
 }
 
-
+function makeInt(n)
+{
+  return parseInt('0' , 10)
+}
 
 
 function makeInt(n)
 {
-  return parseInt('0' , 10)
+  return parseInt('ds' , 10)
 }
