@@ -32,3 +32,8 @@ function makeInt(n)
   return parseInt(String , 10)
 }
 
+function makeInt(n)
+{
+  return parseInt('String' , 10)
+}
+
