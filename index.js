@@ -39,7 +39,6 @@ function makeInt(n)
 
 function makeInt(n)
 {
-  return 'NaN as appropriate'
+  return 'dlsd'
 }
-
 
