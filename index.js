@@ -27,4 +27,8 @@ function dec(n)
   return String(n -= 1)
 }
 
+function makeInt(n)
+{
+  return parseInt(String , 10)
+}
 
