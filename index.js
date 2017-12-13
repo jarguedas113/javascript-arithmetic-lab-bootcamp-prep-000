@@ -11,3 +11,8 @@ function multiply(a, b)
 {
   return String(a * b)
 }
+
+function multiply(a, b)
+{
+  return String(a * b)
+}
