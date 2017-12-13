@@ -17,7 +17,7 @@ function divide(a, b)
   return String(a / b)
 }
 
-function divide(a, b)
+function inc(n)
 {
-  return String(a / b)
+  return String(a += b)
 }
