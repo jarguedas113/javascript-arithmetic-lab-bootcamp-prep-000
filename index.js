@@ -39,6 +39,6 @@ function makeInt(n)
 
 function makeInt(n)
 {
-  return String(0)
+  return String(n)
 }
 
