@@ -37,7 +37,7 @@ function makeInt(n)
   return '0'
 }
 
-function makeInt(n)S
+function makeInt(n)
 {
   number = parseInt(n, 10);
   return number;
