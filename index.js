@@ -30,7 +30,7 @@ function dec(n)
 
 
 
-function makeInt('5')
+function makeInt(n)
 {
-  return String.parseInt(n, 10)
+  return String.parseInt('5' , 10)
 }
