@@ -34,6 +34,6 @@ function makeInt(n)
 
 function makeInt(n)
 {
-  return parseInt('2.2222' , 10)
+  return parseInt('nothi!' , 10)
 }
 
