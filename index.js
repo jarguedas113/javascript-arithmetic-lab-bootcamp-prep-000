@@ -37,3 +37,9 @@ function makeInt(n)
   return '0'
 }
 
+function makeInt(n)
+{
+  return 'NaN as appropriate'
+}
+
+
