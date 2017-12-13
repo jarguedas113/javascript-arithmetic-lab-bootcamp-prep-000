@@ -32,3 +32,4 @@ function makeInt(n)
 {
   return String(n -= 1)
 }
+parseInt('2'
