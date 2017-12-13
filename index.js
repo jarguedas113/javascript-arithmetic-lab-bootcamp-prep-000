@@ -21,3 +21,8 @@ function inc(n)
 {
   return String(n += 1)
 }
+
+function inc(n)
+{
+  return String(n += 1)
+}
