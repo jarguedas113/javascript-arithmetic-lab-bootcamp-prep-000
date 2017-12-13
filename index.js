@@ -12,7 +12,7 @@ function multiply(a, b)
   return String(a * b)
 }
 
-function multiply(a, b)
+function divide(a, b)
 {
-  return String(a * b)
+  return String(a / b)
 }
