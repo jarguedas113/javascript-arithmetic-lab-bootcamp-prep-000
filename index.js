@@ -34,6 +34,6 @@ function makeInt(n)
 
 function makeInt(n)
 {
-  return parseInt(1.5 , 10)
+  return 'assumes base 10'
 }
 
