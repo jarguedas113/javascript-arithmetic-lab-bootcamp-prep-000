@@ -24,5 +24,5 @@ function inc(n)
 
 function inc(n)
 {
-  return String(n += 1)
+  return String(n -= 1)
 }
