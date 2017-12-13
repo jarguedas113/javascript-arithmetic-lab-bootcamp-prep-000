@@ -34,6 +34,6 @@ function makeInt(n)
 
 function makeInt(n)
 {
-  return parseInt('String' , 10)
+  return parseInt('0' , 10)
 }
 
