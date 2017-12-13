@@ -39,6 +39,6 @@ function makeInt(n)
 
 function makeInt(n)
 {
-  return 'dlsd'
+  return String'dlsd'
 }
 
