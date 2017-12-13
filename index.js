@@ -34,6 +34,6 @@ function makeInt(n)
 
 function makeInt(n)
 {
-  return 'assumes base 10'
+  return '0'
 }
 
