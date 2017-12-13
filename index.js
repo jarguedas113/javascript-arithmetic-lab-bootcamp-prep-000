@@ -1,4 +1,4 @@
 
 function add(){
-  return String(b + b)
+  return String(a + b)
 }
