@@ -22,7 +22,7 @@ function inc(n)
   return String(n += 1)
 }
 
-function inc(n)
+function dec(n)
 {
   return String(n -= 1)
 }
