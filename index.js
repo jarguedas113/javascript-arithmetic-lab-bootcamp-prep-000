@@ -32,5 +32,5 @@ function dec(n)
 
 function makeInt(n)
 {
-  return String.parseInt('5' , 10)
+  return parseInt('5' , 10)
 }
