@@ -35,5 +35,5 @@ function makeInt(n)
 
 function makeInt(n)
 {
-  return parseInt('ds' , 10)
+  return parseInt(String , 10)
 }
