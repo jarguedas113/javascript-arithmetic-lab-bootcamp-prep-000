@@ -19,5 +19,5 @@ function divide(a, b)
 
 function inc(n)
 {
-  return String(a += 1)
+  return String(a += b)
 }
